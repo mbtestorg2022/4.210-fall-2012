@@ -6,15 +6,84 @@ uid: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
 
 Readings are classified as required, recommended, or for perusal. Readings assigned for each session are coupled under their respective themes, and are the basis of in-class discussions.
 
-| SES # | THEME |
-| --- | --- |
-| 1-2 | [Introduction]({{< baseurl >}}/pages/readings/introduction) |
-| 3-4 | [City ⇒ Global Economy]({{< baseurl >}}/pages/readings/city-2192-global-economy) |
-| 5-6 | [Urban Plan ⇒ Map of Operations]({{< baseurl >}}/pages/readings/urban-plan-2192-map-of-operations) |
-| 7-8 | [Program ⇒ Performance]({{< baseurl >}}/pages/readings/program-2192-performance-relations-effects-atmospheres) |
-| 9-10 | [Drawing ⇒ Scripting]({{< baseurl >}}/pages/readings/drawing-2192-scripting) |
-| 11-12 | [Image ⇒ Surface]({{< baseurl >}}/pages/readings/image-2192-surface) |
-| 13-14 | [Utopia ⇒ Projection]({{< baseurl >}}/pages/readings/utopia-2192-projection) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+THEME
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+[Introduction]({{< baseurl >}}/pages/readings/introduction)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+[City ⇒ Global Economy]({{< baseurl >}}/pages/readings/city-2192-global-economy)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-6
+{{< tdclose >}}
+{{< tdopen >}}
+[Urban Plan ⇒ Map of Operations]({{< baseurl >}}/pages/readings/urban-plan-2192-map-of-operations)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-8
+{{< tdclose >}}
+{{< tdopen >}}
+[Program ⇒ Performance]({{< baseurl >}}/pages/readings/program-2192-performance-relations-effects-atmospheres)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+[Drawing ⇒ Scripting]({{< baseurl >}}/pages/readings/drawing-2192-scripting)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+[Image ⇒ Surface]({{< baseurl >}}/pages/readings/image-2192-surface)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+[Utopia ⇒ Projection]({{< baseurl >}}/pages/readings/utopia-2192-projection)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The following are recommended texts from which a number of the course readings are taken:
 
