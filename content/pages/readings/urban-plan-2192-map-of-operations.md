@@ -99,7 +99,7 @@ Recommended
 {{< tdopen >}}
 
 
-Allen, Stan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["From Object to Field." (PDF - 1.5MB)](http://lostritto.com/risd2013spring/wp-content/uploads/2013/04/allen1.pdf) _Architectural Design: After Geometry_ 67, no. 5/6 (1995): 24–31.
+Allen, Stan. ["From Object to Field." (PDF - 1.5MB)](http://lostritto.com/risd2013spring/wp-content/uploads/2013/04/allen1.pdf) _Architectural Design: After Geometry_ 67, no. 5/6 (1995): 24–31.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112604) Kwinter, Sanford. "The Complex and the Singular." In _Architectures of Time_. MIT Press, 2001, pp. 2–31. ISBN: 9780262112604.
 
